@@ -1,1 +1,0 @@
-# Minecraft Display System Plugin
