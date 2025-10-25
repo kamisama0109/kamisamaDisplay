@@ -1,1 +1,1 @@
-# kamisamaDisplay
+# Minecraft Display System Plugin
